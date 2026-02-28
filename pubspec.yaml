@@ -1,4 +1,4 @@
-name: dart_sdk_issue_62779
+name: dart_sdk_issue
 
 environment:
   sdk: ^3.11.0

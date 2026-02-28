@@ -1,0 +1,5 @@
+**/.dart_tool/
+**/.idea/
+**/.metadata
+**/devtools_options.yaml
+**/pubspec.lock

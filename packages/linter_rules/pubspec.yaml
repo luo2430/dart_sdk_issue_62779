@@ -1,0 +1,6 @@
+name: linter_rules
+
+environment:
+  sdk: ^3.11.0
+
+resolution: workspace

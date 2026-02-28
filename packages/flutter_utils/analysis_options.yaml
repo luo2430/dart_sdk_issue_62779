@@ -1,0 +1,6 @@
+include:
+  - package:flutter_lints/flutter.yaml
+  # no 'include_file_not_found'
+  - package:linter_rules/analysis_options.yaml
+  # 'include_file_not_found'
+  - package:null/analysis_options.yaml

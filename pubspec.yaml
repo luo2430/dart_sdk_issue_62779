@@ -1,0 +1,7 @@
+name: dart_workspace_issue
+
+environment:
+  sdk: ^3.11.0
+
+workspace:
+  - packages/*

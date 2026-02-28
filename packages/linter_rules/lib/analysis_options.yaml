@@ -1,0 +1,18 @@
+linter:
+  rules:
+    # Mark: async
+    avoid_void_async: true
+    unawaited_futures: true
+    unnecessary_await_in_return: true
+    # Mark: other
+    #> Mark: true
+    always_use_package_imports: true
+    avoid_types_on_closure_parameters: true
+    avoid_unused_constructor_parameters: true
+    combinators_ordering: true
+    prefer_const_constructors: true
+    prefer_const_declarations: true
+    prefer_constructors_over_static_methods: true
+    prefer_single_quotes: true
+    #> Mark: false
+    sort_child_properties_last: false
